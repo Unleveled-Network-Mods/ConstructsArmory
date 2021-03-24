@@ -53,7 +53,7 @@ dependencies {
     deobfCompile "slimeknights:tconstruct:1.16.5-3.0.1.65"
     compile "curse.maven:tinkerstoolleveling-250957:2630860"
 
-    deobfCompile "CraftTweaker2:CraftTweaker2-API:4.1.20.614"
+    deobfCompile "CraftTweaker2:CraftTweaker2-API:4.1.20.627"
     deobfCompile "CraftTweaker2:CraftTweaker2-MC1120-Main:1.12-4.1.20.614"
     deobfCompile "com.teamacronymcoders:ContentTweaker:1.12.2-4.9.1"
     deobfCompile "com.teamacronymcoders.base:base:1.12.2-3.11.0"
