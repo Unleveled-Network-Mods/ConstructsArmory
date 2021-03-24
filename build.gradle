@@ -50,7 +50,7 @@ minecraft {
 
 dependencies {
     deobfCompile "slimeknights.mantle:Mantle:1.16.5-1.6.79"
-    deobfCompile "slimeknights:TConstruct:1.12.2-2.13.0.183"
+    deobfCompile "slimeknights:TConstruct:2.0.1"
     compile "curse.maven:tinkerstoolleveling-250957:2630860"
 
     deobfCompile "CraftTweaker2:CraftTweaker2-API:4.1.20.614"
