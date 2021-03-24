@@ -51,7 +51,7 @@ dependencies {
     deobfCompile "slimeknights.mantle:Mantle:1.16.5-1.6.79"
     deobfCompile "slimeknights:tconstruct:1.16.5-3.0.1.65"
 
-    deobfCompile "com.blamejared.crafttweaker:CraftTweaker-1.16.5:7.1.0.160"
+    deobfCompile "com.blamejared.crafttweaker:CraftTweaker-1.16.5:7.1.0.161"
     deobfCompile "com.teamacronymcoders:ContentTweaker:1.12.2-4.9.1"
     deobfCompile "com.teamacronymcoders.base:base:1.12.2-3.11.0"
 
