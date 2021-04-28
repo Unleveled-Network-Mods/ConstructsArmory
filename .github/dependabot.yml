@@ -1,0 +1,51 @@
+version: 2
+updates:
+- package-ecosystem: gradle
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: com.blamejared.crafttweaker:CraftTweaker-1.16.5
+    versions:
+    - 7.1.0.170
+    - 7.1.0.175
+    - 7.1.0.177
+    - 7.1.0.179
+    - 7.1.0.188
+    - 7.1.0.190
+    - 7.1.0.193
+    - 7.1.0.194
+    - 7.1.0.202
+    - 7.1.0.203
+    - 7.1.0.208
+    - 7.1.0.216
+    - 7.1.0.224
+    - 7.1.0.230
+    - 7.1.0.246
+  - dependency-name: net.minecraftforge.gradle:ForgeGradle
+    versions:
+    - 4.1.7
+  - dependency-name: mezz.jei:jei-1.16.5
+    versions:
+    - 7.6.4.86
+  - dependency-name: slimeknights.mantle:Mantle
+    versions:
+    - 1.16.5-1.6.83
+    - 1.16.5-1.6.85
+    - 1.16.5-1.6.88
+  - dependency-name: com.teamacronymcoders.base:base
+    versions:
+    - 1.12.2-3.13.0
+  - dependency-name: CraftTweaker2:CraftTweaker2-API
+    versions:
+    - 4.1.20.627
+  - dependency-name: slimeknights:TConstruct
+    versions:
+    - 2.0.1
+  - dependency-name: CraftTweaker2:CraftTweaker2-MC1120-Main
+    versions:
+    - 1.12-4.1.20.627
+  - dependency-name: mezz.jei:jei_1.12.2
+    versions:
+    - 4.16.1.302
