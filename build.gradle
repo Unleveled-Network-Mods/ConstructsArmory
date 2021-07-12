@@ -55,7 +55,7 @@ dependencies {
     deobfCompile "com.blamejared:contenttweaker:ContentTweaker-1.16:1.0.0.develop.10"
     deobfCompile "com.blamejared.jeitweaker:JEITweaker-1.16.5:1.0.1.14"
 
-    deobfCompile "mezz.jei:jei-1.16.5:7.6.1.75:api"
+    deobfCompile "mezz.jei:jei-1.16.5:7.7.1.110:api"
     runtime "mezz.jei:jei-1.16.5:7.6.1.75"
 }
 
